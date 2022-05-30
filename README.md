@@ -1,3 +1,3 @@
 # morgtagecalculator
-##basic morgage program
-a simple console mortgage calculator
+## basic morgage program
+#### a simple console mortgage calculator
